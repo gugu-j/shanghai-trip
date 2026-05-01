@@ -2,7 +2,7 @@
   "travelData": [
     {
       "day": 1,
-      "date": "5/16 (토) - 도착",
+      "date": "5/9 (토) - 도착",
       "title": "상하이 도착",
       "items": [
         { "time": "06:00", "location": "인천공항 집합", "desc": "", "icon": "Plane" },
@@ -18,7 +18,7 @@
     },
     {
       "day": 2,
-      "date": "5/17 (일) - 디즈니",
+      "date": "5/10 (일) - 디즈니",
       "title": "상하이 디즈니랜드",
       "items": [
         { "time": "아침", "location": "점도덕 (点都德)", "desc": "딤섬", "icon": "Utensils",
@@ -36,7 +36,7 @@
     },
     {
       "day": 3,
-      "date": "5/18 (월) - 시내관광",
+      "date": "5/11 (월) - 시내관광",
       "title": "시내 관광",
       "items": [
         { "time": "아침", "location": "소양생전 + 레드립스", "desc": "딤섬", "icon": "Utensils",
@@ -66,7 +66,7 @@
     },
     {
       "day": 4,
-      "date": "5/19 (화) - 귀국",
+      "date": "5/12 (화) - 귀국",
       "title": "귀국",
       "items": [
         { "time": "10:00", "location": "인민광장", "desc": "", "icon": "MapPin",
