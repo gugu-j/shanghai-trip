@@ -1,0 +1,108 @@
+{
+  "travelData": [
+    {
+      "day": 1,
+      "date": "5/16 (토) - 도착",
+      "title": "상하이 도착",
+      "items": [
+        { "time": "06:00", "location": "인천공항 집합", "desc": "", "icon": "Plane" },
+        { "time": "08:25", "location": "인천공항 출발", "desc": "대한항공", "icon": "Plane" },
+        { "time": "09:40", "location": "푸동공항 도착", "desc": "", "icon": "MapPin",
+          "chineseName": "上海浦东国际机场",
+          "amapUrl": "https://surl.amap.com/1UrzBYNc79p",
+          "note": "시내까지 약 1시간 · 택시 약 3~4만원 · 마그레브(공항철도) 약 1만원 · 지하철 약 1,400원" },
+        { "time": "↓", "location": "시내 이동", "desc": "DiDi 이용", "icon": "Navigation", "isTransit": true },
+        { "time": "14:00", "location": "그랜드 센트럴 상하이 호텔", "desc": "체크인 · 九江路 505호", "icon": "Hotel",
+          "chineseName": "上海大酒店" }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "5/17 (일) - 디즈니",
+      "title": "상하이 디즈니랜드",
+      "items": [
+        { "time": "아침", "location": "점도덕 (点都德)", "desc": "딤섬", "icon": "Utensils",
+          "chineseName": "点都德",
+          "note": "홍미창펀, 오이무침 필수" },
+        { "time": "낮", "location": "13DE MARZO", "desc": "", "icon": "Coffee",
+          "note": "안푸루점 웨이팅 주의 · 신천지점 추천" },
+        { "time": "낮", "location": "상하이 디즈니랜드", "desc": "", "icon": "Sparkles",
+          "chineseName": "上海迪士尼",
+          "amapUrl": "https://surl.amap.com/e0fk4u1257" },
+        { "time": "저녁", "location": "헌지우이치엔 (很久以前)", "desc": "양꼬치", "icon": "Utensils",
+          "chineseName": "很久以前羊肉串",
+          "note": "극악의 웨이팅 · 인민광장 근처보다 다른 지점이 웨이팅도 적고 더 맛있다는 후기 있음" }
+      ]
+    },
+    {
+      "day": 3,
+      "date": "5/18 (월) - 시내관광",
+      "title": "시내 관광",
+      "items": [
+        { "time": "아침", "location": "소양생전 + 레드립스", "desc": "딤섬", "icon": "Utensils",
+          "chineseName": "小杨生煎 + 红唇串串香•麻辣拌",
+          "note": "소양생전+마라반(레드립스) 함께 먹기 추천 · 홍이플라자 지하 위치 · 호텔 도보 5분 · Last order 21:00" },
+        { "time": "낮", "location": "대한민국임시정부", "desc": "", "icon": "MapPin",
+          "chineseName": "大韩民国临时政府旧址",
+          "amapUrl": "https://surl.amap.com/4li62Wv7J6Oy",
+          "note": "점심시간 피해서 방문 · 신천지 바로 앞 · 성인 20위안 · 09:00-11:30, 13:30-17:00" },
+        { "time": "낮", "location": "프랑스조계지", "desc": "", "icon": "MapPin",
+          "chineseName": "武康大楼",
+          "amapUrl": "https://surl.amap.com/3X3QAeLDN55X",
+          "note": "유럽느낌거리 & 감성카페, 포토존" },
+        { "time": "낮", "location": "신천지", "desc": "", "icon": "MapPin",
+          "chineseName": "新天地",
+          "amapUrl": "https://surl.amap.com/1lMxeZLD183jN",
+          "note": "서양식 건물과 고급 레스토랑&카페" },
+        { "time": "오후", "location": "난징루", "desc": "에그 타르트 · 타월케이크", "icon": "ShoppingBag",
+          "chineseName": "南京路步行街(西口)",
+          "amapUrl": "https://surl.amap.com/VGCHA21gRu",
+          "note": "릴리안 베이커리(莉莲蛋挞 에그타르트) · 홀리랜드(好利来 수건케이크)" },
+        { "time": "저녁", "location": "와이탄 야경", "desc": "", "icon": "Camera",
+          "chineseName": "外滩",
+          "amapUrl": "https://surl.amap.com/k9NDKSuY76o",
+          "note": "상하이 야경 필수코스 · 유럽식 건물과 푸동 스카이라인 감상" }
+      ]
+    },
+    {
+      "day": 4,
+      "date": "5/19 (화) - 귀국",
+      "title": "귀국",
+      "items": [
+        { "time": "10:00", "location": "인민광장", "desc": "", "icon": "MapPin",
+          "chineseName": "人民广场",
+          "amapUrl": "https://surl.amap.com/dWKqzLEd3eZ",
+          "note": "주요 관광지 이동 편한 중심지역" },
+        { "time": "12:00", "location": "와이탄", "desc": "", "icon": "Camera",
+          "chineseName": "外滩",
+          "amapUrl": "https://surl.amap.com/k9NDKSuY76o",
+          "note": "상하이 야경 필수코스 · 유럽식 건물과 푸동 스카이라인 감상" },
+        { "time": "14:00", "location": "점심", "desc": "", "icon": "Utensils" },
+        { "time": "15:00", "location": "예원 (豫园)", "desc": "", "icon": "MapPin",
+          "chineseName": "豫园商城",
+          "amapUrl": "https://surl.amap.com/1vgJlpEZ44N",
+          "note": "야경이 예쁜 전통 건축과 많은 먹거리 및 기념품" },
+        { "time": "↓", "location": "훙차오공항 이동", "desc": "DiDi 이용", "icon": "Navigation", "isTransit": true },
+        { "time": "18:25", "location": "훙차오공항 출발", "desc": "대한항공 → 김포 21:30 도착", "icon": "Plane",
+          "chineseName": "上海虹桥国际机场",
+          "amapUrl": "https://surl.amap.com/3I7CiUGF1b9w6",
+          "note": "시내와 가까워 이동 편함" }
+      ]
+    }
+  ],
+  "budgetData": {
+    "categories": [
+      { "name": "항공권 (2인)", "amount": 633600, "color": "#ef4444" },
+      { "name": "호텔 (3박)", "amount": 668465, "color": "#f97316" }
+    ],
+    "total": 1302065
+  },
+  "restaurants": [
+    { "name": "점도덕 (点都德)", "menu": "딤섬" },
+    { "name": "소양생전 (小杨生煎)", "menu": "생전" },
+    { "name": "레드립스 (Red Lips)", "menu": "마라 딤섬" },
+    { "name": "헌지우이치엔 (很久以前)", "menu": "양꼬치" },
+    { "name": "Polux", "menu": "프렌치 토스트" },
+    { "name": "13DE MARZO", "menu": "" }
+  ]
+}
