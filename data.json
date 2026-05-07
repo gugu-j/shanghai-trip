@@ -65,13 +65,88 @@
     "categories": []
   },
   "restaurants": [
-    { "name": "Grand Mother", "chineseName": "上海姥姥家常饭馆", "menu": "홍소육, 마파두부" },
-    { "name": "점도덕 (点都德)", "chineseName": "点都德(环宇荟店)", "menu": "딤섬, 홍미창펀" },
-    { "name": "Polux", "chineseName": "POLUX", "address": "Taicang Road 181 Long No.5", "mapLink": "https://surl.amap.com/1wyR5wfTo6Gq", "menu": "프렌치 토스트 (미슐랭)" },
-    { "name": "라오지스 (老吉士)", "chineseName": "老吉士饭馆(天平路店)", "menu": "상하이 본토 요리" },
-    { "name": "13DE MARZO", "chineseName": "13de Marzo", "menu": "곰돌이 커피" },
-    { "name": "헌지우이치엔 (很久以前)", "chineseName": "很久以前羊肉串", "menu": "양꼬치" },
-    { "name": "소양생전 (小杨生煎)", "chineseName": "小杨生煎", "menu": "생전포" },
-    { "name": "레드립스 (Red Lips)", "chineseName": "红唇串串香", "menu": "마라반" }
+    {
+      "name": "Grand Mother (外婆家)",
+      "chineseName": "上海姥姥家常饭馆(福州路店)",
+      "amapUrl": "https://surl.amap.com/hcwd0myx1Co",
+      "menu": "홍소육, 마파두부",
+      "day": 1,
+      "time": "11:00-13:00",
+      "note": "호텔 도보 28분 거리"
+    },
+    {
+      "name": "Conde Bar",
+      "chineseName": "CONDE Pub",
+      "address": "No.60, Huangpu Road",
+      "amapUrl": "https://surl.amap.com/2BHeZjz7VgTK",
+      "menu": "칵테일 등",
+      "day": 1,
+      "time": "19:30",
+      "note": "예약 필수"
+    },
+    {
+      "name": "점도덕 (点都德)",
+      "chineseName": "点都德(环宇荟店)",
+      "amapUrl": "https://surl.amap.com/1zQpyGOy4Ge",
+      "menu": "딤섬",
+      "day": 2,
+      "time": "09:30",
+      "note": "당일 원격 줄서기"
+    },
+    {
+      "name": "Polux",
+      "chineseName": "POLUX",
+      "address": "Taicang Road 181 Long No.5",
+      "amapUrl": "https://surl.amap.com/1wyR5wfTo6Gq",
+      "menu": "프렌치토스트",
+      "day": 2,
+      "time": "12:30",
+      "note": "예약 12:30 / 미슐랭"
+    },
+    {
+      "name": "13DE MARZO (곰돌이카페)",
+      "chineseName": "13DE MARZO CAFÉ(上海安福路店)",
+      "amapUrl": "https://surl.amap.com/4YS0prP1b5eY",
+      "menu": "카페 음료",
+      "day": 2,
+      "time": "14:00",
+      "note": "오후 2시 이후 양꼬치 웨이팅 걸기 필수"
+    },
+    {
+      "name": "헌지우이치엔 (很久以前)",
+      "chineseName": "很久以前羊肉串(南京路第一百货店)",
+      "amapUrl": "https://surl.amap.com/3CmXuje1lfsL",
+      "menu": "양꼬치",
+      "day": 2,
+      "time": "19:00",
+      "note": "극악의 웨이팅 주의"
+    },
+    {
+      "name": "라오지스 (老吉士)",
+      "chineseName": "老吉士饭馆(天平路店)",
+      "amapUrl": "https://surl.amap.com/1A8n1y6Tew3",
+      "menu": "상하이 전통 요리",
+      "day": 3,
+      "time": "11:00",
+      "note": "10:50까지 대기 권장 (11시 오픈)"
+    },
+    {
+      "name": "소양생전 (小杨生煎)",
+      "chineseName": "小杨生煎",
+      "amapUrl": "https://www.amap.com/place/B001550C2J",
+      "menu": "생전 (군만두)",
+      "day": 4,
+      "time": "09:00",
+      "note": "06:00 오픈 / 포장해서 호텔에서 먹기"
+    },
+    {
+      "name": "레드립스 (Red Lips)",
+      "chineseName": "红唇串串香",
+      "amapUrl": "https://www.amap.com/place/B001550C2J",
+      "menu": "마라반",
+      "day": 4,
+      "time": "09:00",
+      "note": "10:00 오픈 / 포장해서 호텔에서 먹기"
+    }
   ]
 }
