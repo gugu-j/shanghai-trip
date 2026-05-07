@@ -3,94 +3,71 @@
     {
       "day": 1,
       "date": "5/9 (토) - 도착",
-      "title": "상하이 도착",
+      "title": "상하이 도착 및 북와이탄",
       "items": [
-        { "time": "06:00", "location": "공항 집결", "desc": "대한항공 카운터", "icon": "Plane" },
-        { "time": "08:25-09:40", "location": "인천공항 → 푸동공항", "desc": "대한항공", "icon": "Plane",
-          "chineseName": "上海浦东国际机场",
-          "amapUrl": "https://surl.amap.com/1UrzBYNc79p",
-          "note": "시내까지 약 1시간 · 택시 약 3~4만원 · 마그레브(공항철도) 약 1만원 · 지하철 약 1,400원" },
-        { "time": "10:00", "location": "호텔 이동 및 캐리어 맡기기", "desc": "DiDi 이용", "icon": "Navigation", "isTransit": true },
-        { "time": "11:00", "location": "Grand Mother", "desc": "홍소육, 마파두부", "icon": "Utensils" },
-        { "time": "13:00", "location": "미니소, TOP TOY", "desc": "", "icon": "ShoppingBag" },
-        { "time": "14:00", "location": "호텔 체크인", "desc": "", "icon": "Hotel",
-          "chineseName": "上海大酒店" },
-        { "time": "16:00", "location": "Conde Bar", "desc": "", "icon": "Coffee" }
+        { "time": "08:25-09:40", "location": "인천공항 → 푸동공항", "chineseName": "上海浦东国际机场", "desc": "대한항공", "icon": "Plane" },
+        { "time": "09:40-10:30", "location": "입국 심사", "desc": "", "icon": "MapPin" },
+        { "time": "10:30-11:00", "location": "호텔 이동 및 짐 맡기기", "desc": "택시로 식당 이동", "icon": "Navigation", "isTransit": true },
+        { "time": "11:00-13:00", "location": "Grand Mother (外婆家)", "chineseName": "上海姥姥家常饭馆(九江路新店)", "mapLink": "https://surl.amap.com/zTzDLgDgaQ", "desc": "홍소육, 마파두부", "icon": "Utensils", "note": "호텔 도보 28분 거리" },
+        { "time": "13:00", "location": "미니소, TOP TOY", "chineseName": "名创优品IP乐园(全球壹号店)", "mapLink": "https://surl.amap.com/SOJCVwA3JG", "desc": "쇼핑 탐방", "icon": "ShoppingBag" },
+        { "time": "14:00", "location": "호텔 체크인", "chineseName": "上海大酒店", "mapLink": "https://surl.amap.com/1zLezxQ1zdKK", "desc": "상하이 그랜드 센트럴 호텔", "icon": "Hotel" },
+        { "time": "14:00-15:00", "location": "과일모찌 및 휴식", "desc": "간식 냠냠", "icon": "Coffee" },
+        { "time": "16:30-18:00", "location": "저녁 식사", "desc": "주변 맛집 탐방", "icon": "Utensils" },
+        { "time": "18:00-19:00", "location": "북와이탄 공원", "chineseName": "北外滩滨江绿地小巨蛋", "mapLink": "https://www.amap.com/place/B0K675BSVK", "desc": "야경 산책", "icon": "MapPin" },
+        { "time": "19:30-21:00", "location": "Conde Bar", "chineseName": "CONDE Pub", "address": "No.60, Huangpu Road", "mapLink": "https://surl.amap.com/2BHeZjz7VgTK", "desc": "예약시간 19:30", "icon": "Coffee" },
+        { "time": "21:00-21:30", "location": "공원 산책 및 복귀", "desc": "택시 이용", "icon": "Navigation", "isTransit": true }
       ]
     },
     {
       "day": 2,
       "date": "5/10 (일) - 시내관광",
-      "title": "시내 관광",
+      "title": "신천지 및 시내 관광",
       "items": [
-        { "time": "09:00", "location": "점도덕 (点都德)", "desc": "예약 가능", "icon": "Utensils",
-          "chineseName": "点都德",
-          "note": "홍미창펀, 오이무침 필수" },
-        { "time": "11:00", "location": "대한민국임시정부 유적지", "desc": "여권 필수", "icon": "MapPin",
-          "chineseName": "大韩民国临时政府旧址",
-          "amapUrl": "https://surl.amap.com/4li62Wv7J6Oy",
-          "note": "점심시간 피해서 방문 · 신천지 바로 앞 · 성인 20위안 · 09:00-11:30, 13:30-17:00" },
-        { "time": "12:00", "location": "Polux", "desc": "프렌치토스트 미슐랭", "icon": "Utensils" },
-        { "time": "14:00", "location": "우캉맨션", "desc": "", "icon": "MapPin",
-          "chineseName": "武康大楼",
-          "amapUrl": "https://surl.amap.com/3X3QAeLDN55X",
-          "note": "유럽느낌거리 & 감성카페, 포토존" },
-        { "time": "16:00", "location": "13DE MARZO", "desc": "곰돌이카페", "icon": "Coffee",
-          "note": "안푸루점 웨이팅 주의 · 신천지점 추천" },
-        { "time": "19:00", "location": "헌지우이치엔 (很久以前)", "desc": "양꼬치", "icon": "Utensils",
-          "chineseName": "很久以前羊肉串",
-          "note": "극악의 웨이팅 · 인민광장 근처보다 다른 지점이 웨이팅도 적고 더 맛있다는 후기 있음" }
+        { "time": "09:30", "location": "점도덕 (点都德)", "chineseName": "点都德(环宇荟店)", "mapLink": "https://surl.amap.com/1zQpyGOy4Ge", "desc": "당일 원격 줄서기", "icon": "Utensils" },
+        { "time": "11:00", "location": "대한민국임시정부 유적지", "chineseName": "大韩民国临时政府旧址", "mapLink": "https://surl.amap.com/1A1NooC17c1C", "desc": "여권 필수 지참", "icon": "MapPin" },
+        { "time": "12:00-14:00", "location": "Polux", "chineseName": "POLUX", "address": "Taicang Road 181 Long No.5", "mapLink": "https://surl.amap.com/1wyR5wfTo6Gq", "desc": "예약 12:30 / 프렌치토스트 미슐랭", "icon": "Utensils" },
+        { "time": "14:00", "location": "13DE MARZO (곰돌이카페)", "chineseName": "13DE MARZO CAFÉ(上海安福路店)", "mapLink": "https://surl.amap.com/4YS0prP1b5eY", "desc": "원격 주문 및 헌지우이치엔 웨이팅", "icon": "Coffee", "note": "오후 2시 이후 양꼬치 웨이팅 걸기 필수" },
+        { "time": "19:00", "location": "헌지우이치엔 (很久以前)", "chineseName": "很久以前羊肉串(南京路第一百货店)", "mapLink": "https://surl.amap.com/3CmXuje1lfsL", "desc": "양꼬치 (극악의 웨이팅 주의)", "icon": "Utensils" },
+        { "time": "20:00", "location": "일정 종료", "desc": "휴식", "icon": "Moon" }
       ]
     },
     {
       "day": 3,
       "date": "5/11 (월) - 디즈니",
-      "title": "상하이 디즈니랜드",
+      "title": "우캉맨션 및 디즈니랜드",
       "items": [
-        { "time": "오전", "location": "호텔 → 디즈니랜드 이동", "desc": "택시 156위안", "icon": "Navigation", "isTransit": true },
-        { "time": "종일", "location": "상하이 디즈니랜드", "desc": "", "icon": "Sparkles",
-          "chineseName": "上海迪士尼",
-          "amapUrl": "https://surl.amap.com/e0fk4u1257" },
-        { "time": "21:15", "location": "불꽃놀이", "desc": "", "icon": "Camera" },
-        { "time": "22:00", "location": "디즈니랜드 → 호텔 이동", "desc": "택시 156위안", "icon": "Navigation", "isTransit": true }
+        { "time": "09:00", "location": "우캉맨션", "chineseName": "武康大楼", "mapLink": "https://surl.amap.com/1zXcpiKPbbq", "desc": "유럽풍 거리 포토존", "icon": "MapPin" },
+        { "time": "11:00", "location": "라오지스 (老吉士)", "chineseName": "老吉士饭馆(天平路店)", "mapLink": "https://surl.amap.com/1A8n1y6Tew3", "desc": "10:50까지 대기 권장 (11시 오픈)", "icon": "Utensils" },
+        { "time": "12:00", "location": "호텔 이동", "desc": "짐 정리 및 잠시 휴식", "icon": "Hotel" },
+        { "time": "13:00", "location": "호텔 → 디즈니랜드", "desc": "택시 이동 (약 156위안)", "icon": "Navigation", "isTransit": true },
+        { "time": "14:00-21:00", "location": "상하이 디즈니랜드", "chineseName": "上海迪士尼乐园", "mapLink": "https://surl.amap.com/1A8F4aW1wc6i", "desc": "테마파크 즐기기", "icon": "Sparkles" },
+        { "time": "21:15", "location": "불꽃놀이", "desc": "디즈니 하이라이트", "icon": "Camera" },
+        { "time": "22:00", "location": "디즈니랜드 → 호텔", "desc": "택시 이동 (약 156위안)", "icon": "Navigation", "isTransit": true }
       ]
     },
     {
       "day": 4,
       "date": "5/12 (화) - 귀국",
-      "title": "귀국",
+      "title": "쇼핑 및 귀국",
       "items": [
-        { "time": "09:00", "location": "소양생전 + 레드립스", "desc": "포장해서 호텔에서 먹기", "icon": "Utensils",
-          "chineseName": "小杨生煎 + 红唇串串香•麻辣拌",
-          "note": "소양생전+마라반(레드립스) 함께 먹기 추천 · 홍이플라자 지하 위치 · 호텔 도보 5분 · Last order 21:00" },
-        { "time": "11:00", "location": "체크아웃", "desc": "", "icon": "Hotel" },
-        { "time": "12:00", "location": "쇼핑", "desc": "에그타르트, 수건케이크 등", "icon": "ShoppingBag",
-          "chineseName": "南京路步行街(西口)",
-          "amapUrl": "https://surl.amap.com/VGCHA21gRu",
-          "note": "릴리안 베이커리(莉莲蛋挞 에그타르트) · 홀리랜드(好利来 수건케이크)" },
-        { "time": "15:00", "location": "공항 이동", "desc": "공항 맛집 탐방", "icon": "Navigation", "isTransit": true },
-        { "time": "18:25-21:30", "location": "훙차오공항 → 김포공항", "desc": "대한항공", "icon": "Plane",
-          "chineseName": "上海虹桥国际机场",
-          "amapUrl": "https://surl.amap.com/3I7CiUGF1b9w6",
-          "note": "시내와 가까워 이동 편함" },
-        { "time": "22:00", "location": "입국심사 및 귀가", "desc": "", "icon": "Navigation", "isTransit": true }
+        { "time": "09:00", "location": "소양생전 + 레드립스", "chineseName": "小杨生煎 + 红唇串串香", "mapLink": "https://www.amap.com/place/B001550C2J", "mapLinkNote": "宏伊国际广场(南京东路)", "desc": "소양생전(06:00), 레드립스(10:00) 오픈 확인", "icon": "Utensils", "note": "포장해서 호텔에서 먹기" },
+        { "time": "11:00", "location": "체크아웃", "desc": "짐 보관 후 쇼핑", "icon": "Hotel" },
+        { "time": "12:00-15:00", "location": "난징동루 쇼핑", "chineseName": "南京东路", "mapLink": "https://www.amap.com/place/B0FFGX33QM", "desc": "릴리안(莉莲蛋挞 07:00), 홀리랜드(好利来 10:00) 오픈 확인", "icon": "ShoppingBag", "note": "에그타르트, 수건케이크 등 구매" },
+        { "time": "15:00", "location": "공항 이동", "desc": "훙차오 공항으로 이동", "icon": "Navigation", "isTransit": true },
+        { "time": "16:00", "location": "공항 대기", "desc": "공항 맛집 탐방", "icon": "Utensils" },
+        { "time": "18:25-21:30", "location": "훙차오공항 → 김포공항", "chineseName": "上海虹桥国际机场", "mapLink": "https://surl.amap.com/jhaBcaF1BafG", "desc": "대한항공", "icon": "Plane" },
+        { "time": "22:00", "location": "입국 및 귀가", "desc": "집으로 이동", "icon": "Navigation", "isTransit": true }
       ]
     }
   ],
-  "budgetData": {
-    "categories": [
-      { "name": "항공권 (2인)", "amount": 633600, "color": "#ef4444" },
-      { "name": "호텔 (3박)", "amount": 668465, "color": "#f97316" }
-    ],
-    "total": 1302065
-  },
   "restaurants": [
-    { "name": "Grand Mother", "menu": "홍소육, 마파두부" },
-    { "name": "점도덕 (点都德)", "menu": "딤섬" },
-    { "name": "Polux", "menu": "프렌치 토스트 (미슐랭)" },
-    { "name": "13DE MARZO", "menu": "곰돌이카페" },
-    { "name": "헌지우이치엔 (很久以前)", "menu": "양꼬치" },
-    { "name": "소양생전 (小杨生煎)", "menu": "생전" },
-    { "name": "레드립스 (Red Lips)", "menu": "마라 딤섬" }
+    { "name": "Grand Mother", "chineseName": "上海姥姥家常饭馆", "menu": "홍소육, 마파두부" },
+    { "name": "점도덕 (点都德)", "chineseName": "点都德(环宇荟店)", "menu": "딤섬, 홍미창펀" },
+    { "name": "Polux", "chineseName": "POLUX", "address": "Taicang Road 181 Long No.5", "mapLink": "https://surl.amap.com/1wyR5wfTo6Gq", "menu": "프렌치 토스트 (미슐랭)" },
+    { "name": "라오지스 (老吉士)", "chineseName": "老吉士饭馆(天平路店)", "menu": "상하이 본토 요리" },
+    { "name": "13DE MARZO", "chineseName": "13de Marzo", "menu": "곰돌이 커피" },
+    { "name": "헌지우이치엔 (很久以前)", "chineseName": "很久以前羊肉串", "menu": "양꼬치" },
+    { "name": "소양생전 (小杨生煎)", "chineseName": "小杨生煎", "menu": "생전포" },
+    { "name": "레드립스 (Red Lips)", "chineseName": "红唇串串香", "menu": "마라반" }
   ]
 }
